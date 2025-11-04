@@ -35,7 +35,7 @@ It fuses **ESMFold** 3D structures, **ProtT5** sequence embeddings, and **DSSP/g
 
 ## 🧱 Features & Graph Construction
 Open **`code/feature.ipynb`** and run all cells. It will:
-1) read FASTA and load **ESMFold** PDBs → `data/structures/`  
+1) read FASTA and load **ESMFold** PDBs
 2) compute **DSSP** via `mkdssp`  
 3) derive **geometric** features (distances/angles/contacts)  
 4) extract **ProtT5** embeddings  

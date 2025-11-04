@@ -9,11 +9,6 @@ It fuses **ESMFold** 3D structures, **ProtT5** sequence embeddings, and **DSSP/g
 
 ---
 
-## 🗂 Repository Layout
-
-
----
-
 ## ⚙️ Environment
 - Python ≥ 3.10
 - PyTorch (GPU build matching your CUDA)

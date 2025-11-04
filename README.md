@@ -30,9 +30,6 @@ It fuses **ESMFold** 3D structures, **ProtT5** sequence embeddings, and **DSSP/g
   - **n = 5** (k-mer word size used by CD-HIT’s index); other parameters at defaults.
 - **Split**: random **8:2** train/test on the non-redundant set.
 
-Expected directories:
-
-
 
 ---
 
